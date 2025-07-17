@@ -2,7 +2,7 @@
 
 ## Deploy
 
-https://vizereth.github.io/V-LaslesVPN
+https://vizereth.github.io/template-vpn-laslesvpn
 
 ## Project setup
 ```
