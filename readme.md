@@ -1,4 +1,4 @@
-# HTML Template - LaslesVPN
+# Landing Page - LaslesVPN
 
 ## Deploy
 
