@@ -1,8 +1,8 @@
 # Landing Page - LaslesVPN
 
-## Deploy
+## Deployment
 
-https://vizereth.github.io/template-vpn-laslesvpn
+https://vizereth.github.io/web-laslesvpn
 
 ## Project setup
 ```
