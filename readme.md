@@ -1,9 +1,5 @@
 # Landing Page - LaslesVPN
 
-## Deployment
-
-https://vizereth.github.io/web-laslesvpn
-
 ## Project setup
 ```
 npm install
